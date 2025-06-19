@@ -4370,3 +4370,421 @@ ModdedBiomeSource (3b7b013c)
 [19Jun2025 01:32:10.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/towering_towering_callon] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/towering]
 [19Jun2025 01:32:40.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrinceBrutus08 lost connection: Disconnected
 [19Jun2025 01:32:40.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 left the game
+[19Jun2025 01:33:32.078] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:33:32.149] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:33:32.226] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:33:32.303] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:33:32.303] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:33:32.370] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:33:32.370] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:33:32.442] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:33:32.513] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:33:32.585] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:33:32.585] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:33:32.653] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:33:33.094] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:33:33.094] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:33:33.095] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:33:33.102] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:33:45.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrinceBrutus08[/127.31.36.41:48427] logged in with entity id 3714 at (1.3158434819141862, 72.0, 2.9780875372468962)
+[19Jun2025 01:33:45.757] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 01:33:45.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 joined the game
+[19Jun2025 01:33:45.816] [Server thread/INFO] [Jade/]: Syncing config to PrinceBrutus08 (55fbcf72-b562-34a1-9996-033bc2199400)
+[19Jun2025 01:33:45.982] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 01:33:45.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 01:33:45.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 01:33:45.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 01:33:45.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 01:33:45.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 01:33:45.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 01:33:45.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 01:33:45.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 01:33:45.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 01:33:45.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 01:34:25.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Alex's Mobs]
+[19Jun2025 01:36:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Shouldn't We Cook It First?]
+[19Jun2025 01:38:00.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Wild Harvest]
+[19Jun2025 01:38:26.858] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:38:26.935] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:38:26.935] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:38:27.027] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:38:27.028] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:38:27.115] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:38:27.156] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:38:27.202] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:38:27.210] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:38:27.293] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:38:27.392] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:38:27.432] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:38:28.149] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:38:28.149] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:38:28.153] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:38:28.162] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:38:39.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dellshyva[/127.240.198.140:59737] logged in with entity id 5718 at (7.5, 73.0, -2.5)
+[19Jun2025 01:38:39.870] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 01:38:39.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva joined the game
+[19Jun2025 01:38:39.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Nether's Exoticism]
+[19Jun2025 01:38:39.949] [Server thread/INFO] [Jade/]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[19Jun2025 01:38:39.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Dungeons And Combat]
+[19Jun2025 01:38:40.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Discover The Mermaids]
+[19Jun2025 01:38:40.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Mobs of Mythology]
+[19Jun2025 01:38:40.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Fruits of the Field]
+[19Jun2025 01:38:41.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 01:38:41.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 01:38:41.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 01:38:41.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 01:38:41.218] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 01:38:41.219] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 01:38:41.220] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 01:39:06.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Stone Age]
+[19Jun2025 01:39:29.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Scorpion269_ lost connection: Disconnected
+[19Jun2025 01:39:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ left the game
+[19Jun2025 01:39:43.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Spooky Scary Skeletons]
+[19Jun2025 01:40:15.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Stone Age]
+[19Jun2025 01:40:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 was slain by Prisoner Skull
+[19Jun2025 01:40:19.074] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:40:19.074] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Jun2025 01:40:24.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Stone Age]
+[19Jun2025 01:40:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Getting an Upgrade]
+[19Jun2025 01:42:20.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Spooky Scary Skeletons]
+[19Jun2025 01:42:22.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Monster Hunter]
+[19Jun2025 01:43:19.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [The Titan]
+[19Jun2025 01:43:49.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Cherry Picker]
+[19Jun2025 01:45:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 was electrocuted after failing to pick an enchanted lock
+[19Jun2025 01:45:13.095] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:45:13.095] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Jun2025 01:47:50.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 was slain by Corpse Maggot
+[19Jun2025 01:47:51.674] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:47:51.675] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Jun2025 01:48:14.251] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:48:14.358] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:48:14.358] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:48:14.470] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:48:14.470] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:48:14.572] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:48:14.572] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:48:14.673] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:48:14.674] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:48:14.776] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:48:14.776] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:48:14.852] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:48:33.382] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:48:33.383] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:48:34.067] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:48:38.770] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:48:44.146] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@54d6edc3[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:46425): Took too long to log in
+[19Jun2025 01:48:44.147] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54d6edc3[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:46425) lost connection: Took too long to log in
+[19Jun2025 01:48:44.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:48:49.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Parry this you filthy casual!]
+[19Jun2025 01:49:11.747] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:49:11.851] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:49:11.955] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:49:11.955] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:49:11.955] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:49:12.057] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:49:12.057] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:49:12.159] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:49:12.159] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:49:12.261] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:49:12.302] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:49:12.456] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:49:30.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Junior Summoner]
+[19Jun2025 01:49:32.446] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:49:32.486] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:49:33.389] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:49:39.336] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:49:41.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@ced7b0b[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:34235): Took too long to log in
+[19Jun2025 01:49:41.643] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ced7b0b[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:34235) lost connection: Took too long to log in
+[19Jun2025 01:49:41.693] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:50:06.304] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:50:06.410] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:50:06.410] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:50:06.513] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:50:06.514] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:50:06.625] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:50:06.625] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:50:06.725] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:50:06.750] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:50:07.000] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:50:07.003] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:50:07.003] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:50:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 was slain by Dreadknight
+[19Jun2025 01:50:27.102] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b84c659[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:53615) lost connection: Disconnected
+[19Jun2025 01:50:28.465] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:50:28.466] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Jun2025 01:50:33.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Parry this you filthy casual!]
+[19Jun2025 01:50:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Not Today, Thank You]
+[19Jun2025 01:50:46.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva was impaled by Dreadknight
+[19Jun2025 01:50:49.244] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:50:49.244] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[19Jun2025 01:50:58.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Shiver Me Timbers!]
+[19Jun2025 01:51:11.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva was slain by PrinceBrutus08
+[19Jun2025 01:51:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Getting an Upgrade]
+[19Jun2025 01:51:14.295] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:51:14.296] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Jun2025 01:51:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 was slain by Haunter
+[19Jun2025 01:51:31.350] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:51:31.350] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Jun2025 01:52:08.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dellshyva lost connection: Disconnected
+[19Jun2025 01:52:08.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva left the game
+[19Jun2025 01:52:51.201] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:52:51.207] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:52:51.271] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:52:51.288] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:52:51.320] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:52:51.368] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:52:51.416] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:52:51.462] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:52:51.508] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:52:51.555] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:52:51.601] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:52:51.645] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:52:52.463] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:52:52.463] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:52:52.475] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:52:52.502] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:52:56.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tatsumi_Sempai[/127.228.126.26:41777] logged in with entity id 9550 at (3.4520772754495868, 71.0, -6.53496079955496)
+[19Jun2025 01:52:56.453] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 01:52:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tatsumi_Sempai joined the game
+[19Jun2025 01:52:56.507] [Server thread/INFO] [Jade/]: Syncing config to Tatsumi_Sempai (cffd944a-4d2f-3467-a37d-0a3aa0845211)
+[19Jun2025 01:53:00.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 01:53:00.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 01:53:00.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 01:53:00.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 01:53:00.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 01:53:00.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 01:53:00.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 01:53:00.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 01:53:00.873] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 01:53:00.874] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 01:53:14.909] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:53:15.015] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:53:15.021] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:53:15.021] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:53:15.119] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:53:15.150] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:53:15.217] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:53:15.222] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:53:15.319] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:53:15.351] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:53:15.418] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:53:15.418] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:53:32.943] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:53:33.350] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:53:33.351] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:53:33.351] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:53:33.391] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:53:33.391] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:53:33.391] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:53:33.438] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:53:33.439] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:53:33.448] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:53:33.526] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:53:33.527] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:53:37.846] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:53:37.846] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:53:38.715] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:53:42.704] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:53:44.781] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@41cbe391[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:45855): Took too long to log in
+[19Jun2025 01:53:44.781] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41cbe391[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:45855) lost connection: Took too long to log in
+[19Jun2025 01:53:44.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:53:51.029] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:53:51.070] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:53:51.995] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:53:54.382] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:54:02.847] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@93afbe4[id=<null>,name=Dellshyva,properties={},legacy=false] (/127.240.198.140:40371): Took too long to log in
+[19Jun2025 01:54:02.847] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@93afbe4[id=<null>,name=Dellshyva,properties={},legacy=false] (/127.240.198.140:40371) lost connection: Took too long to log in
+[19Jun2025 01:54:02.896] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:54:17.747] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:54:17.832] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:54:17.918] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:54:17.955] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:54:18.002] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:54:18.003] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:54:18.088] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:54:18.088] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:54:18.173] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:54:18.258] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:54:18.258] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:54:18.337] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:54:18.962] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:54:18.962] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:54:18.962] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:54:18.970] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:54:30.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dellshyva[/127.240.198.140:49373] logged in with entity id 9911 at (14.582077669899817, 71.0, 27.529560909760093)
+[19Jun2025 01:54:30.716] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 01:54:30.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva joined the game
+[19Jun2025 01:54:30.821] [Server thread/INFO] [Jade/]: Syncing config to Dellshyva (f40338dd-3f94-3f7e-ab0b-05857e011d83)
+[19Jun2025 01:54:30.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 01:54:30.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 01:54:30.983] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 01:54:30.984] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 01:54:30.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 01:54:30.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 01:54:30.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 01:54:30.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 01:54:30.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 01:54:30.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 01:54:30.985] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 01:54:32.060] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:54:32.174] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:54:32.174] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:54:32.277] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:54:32.277] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:54:32.383] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:54:32.383] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:54:32.487] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:54:32.487] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:54:32.594] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:54:32.594] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:54:32.658] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:54:53.861] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:54:53.861] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:54:54.316] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:54:56.403] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:55:01.952] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1c1f0f70[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:53963): Took too long to log in
+[19Jun2025 01:55:01.952] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c1f0f70[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:53963) lost connection: Took too long to log in
+[19Jun2025 01:55:02.000] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:55:32.714] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:55:32.818] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:55:32.819] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:55:32.923] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:55:32.924] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:55:33.021] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:55:33.062] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:55:33.123] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:55:33.123] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:55:33.230] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:55:33.230] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:55:33.317] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:55:47.783] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:55:47.783] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:55:48.247] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:55:51.833] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:56:02.608] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@452bc0a1[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:60609): Took too long to log in
+[19Jun2025 01:56:02.609] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@452bc0a1[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:60609) lost connection: Took too long to log in
+[19Jun2025 01:56:02.654] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:56:25.816] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:56:25.934] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:56:25.936] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:56:26.041] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:56:26.041] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:56:26.140] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:56:26.140] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:56:26.146] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:56:26.245] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:56:26.349] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:56:26.390] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:56:26.427] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:56:43.246] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:56:43.251] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:56:43.650] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:56:46.652] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:56:55.666] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@179fe47e[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:53513): Took too long to log in
+[19Jun2025 01:56:55.666] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@179fe47e[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:53513) lost connection: Took too long to log in
+[19Jun2025 01:56:55.718] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:57:15.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tatsumi_Sempai has made the advancement [Cherry Picker]
+[19Jun2025 01:57:21.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Forbidden Fruit]
+[19Jun2025 01:57:32.225] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:57:32.326] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:57:32.327] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:57:32.429] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:57:32.429] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:57:32.533] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:57:32.533] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:57:32.648] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:57:32.648] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:57:32.747] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:57:32.748] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:57:32.824] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:57:54.864] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:57:54.864] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:57:55.181] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:57:59.155] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:58:02.125] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@278a6928[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:39907): Took too long to log in
+[19Jun2025 01:58:02.126] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@278a6928[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:39907) lost connection: Took too long to log in
+[19Jun2025 01:58:02.174] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 01:58:16.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has been bitten to death
+[19Jun2025 01:58:18.503] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:58:18.503] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19Jun2025 01:59:53.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 was slain by Chort
+[19Jun2025 01:59:55.012] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 01:59:55.013] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[19Jun2025 02:00:09.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrinceBrutus08 moved too quickly! 10.103037790259464,1.5800000131130219,-0.4048619983564201
+[19Jun2025 02:01:27.281] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 02:01:27.390] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 02:01:27.390] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 02:01:27.395] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 02:01:27.498] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 02:01:27.499] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 02:01:27.611] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 02:03:16.643] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 02:02:57.129] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[19Jun2025 02:03:16.645] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[19Jun2025 02:01:57.129] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@55fc9bdf[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:56475): Took too long to log in
+[19Jun2025 02:03:16.647] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55fc9bdf[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:56475) lost connection: Took too long to log in
+[19Jun2025 02:03:16.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 79536ms or 1590 ticks behind
+[19Jun2025 02:03:19.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrinceBrutus08 lost connection: Disconnected
+[19Jun2025 02:03:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 left the game
+[19Jun2025 02:03:19.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tatsumi_Sempai lost connection: Disconnected
+[19Jun2025 02:03:19.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tatsumi_Sempai left the game
+[19Jun2025 02:03:19.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dellshyva lost connection: Disconnected
+[19Jun2025 02:03:19.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva left the game
+[19Jun2025 02:03:19.444] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 02:03:19.445] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61f53524[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:43965) lost connection: Disconnected
+[19Jun2025 02:03:19.500] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID cbe45067-baf1-4418-8110-539532a7f899
+[19Jun2025 02:03:19.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jun2025 02:03:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jun2025 02:03:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Jun2025 02:03:19.542] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 730fc88f-2fcb-489d-b37f-5774f1bba9bc
+[19Jun2025 02:03:19.547] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Las-Chicas-GG/servidor_minecraft/./crash-reports/crash-2025-06-19_02.03.19-server.txt
+[19Jun2025 02:03:19.751] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[19Jun2025 02:03:20.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Jun2025 02:03:26.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[19Jun2025 02:03:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Jun2025 02:03:26.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[19Jun2025 02:03:26.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Jun2025 02:03:26.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[19Jun2025 02:03:26.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19Jun2025 02:03:28.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Jun2025 02:03:28.358] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@70b7bbc2

@@ -916,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-19 01:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-06-19 01:27:36 +0000"
@@ -940,6 +946,12 @@
     },
     "done": true
   },
+  "kingdomsanddynasties2:recipes/misc/eboshi_kabuto": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_sign": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -952,15 +964,39 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-06-19 01:39:14 +0000"
+    },
+    "done": true
+  },
   "kingdomsanddynasties2:recipes/misc/eboshi_hat2": {
     "criteria": {
       "has_silk": "2025-06-19 01:24:52 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-19 01:31:26 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_purple": {
     "criteria": {
       "has_oak_planks": "2025-06-19 01:29:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-19 01:31:27 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2025-06-19 01:31:36 +0000"
     },
     "done": true
   },
@@ -1163,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -1205,9 +1247,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
     },
     "done": true
   },
@@ -1241,6 +1295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -1259,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-19 01:31:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_fence": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -1271,15 +1337,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_pink": {
     "criteria": {
       "has_oak_planks": "2025-06-19 01:29:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
     },
     "done": true
   },
@@ -1304,6 +1388,12 @@
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "animatedmobsmod:shouldnt_we_cook_it_first": {
+    "criteria": {
+      "shouldnt_we_cook_it_first": "2025-06-19 01:36:38 +0000"
     },
     "done": true
   },
@@ -1385,6 +1475,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/misc/heart_crystal": {
+    "criteria": {
+      "cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -1400,6 +1496,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-19 01:27:36 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/combat/bandages": {
+    "criteria": {
+      "cobblestone": "2025-06-19 01:39:06 +0000"
     },
     "done": true
   },
@@ -1469,6 +1571,12 @@
     },
     "done": true
   },
+  "kingdomsanddynasties2:recipes/misc/suji_kabuto": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_red": {
     "criteria": {
       "has_oak_planks": "2025-06-19 01:29:44 +0000"
@@ -1520,6 +1628,12 @@
   "betternether:recipes/decorations/jungle_taburet": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-19 01:31:26 +0000"
     },
     "done": true
   },
@@ -1607,6 +1721,12 @@
     },
     "done": true
   },
+  "kingdomsanddynasties2:recipes/misc/oyoroi_haidate": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-06-19 01:25:52 +0000"
@@ -1646,6 +1766,12 @@
   "betternether:recipes/decorations/cherry_chair": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-06-19 01:39:06 +0000"
     },
     "done": true
   },
@@ -1811,6 +1937,30 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
+  "kingdomsanddynasties2:recipes/misc/oyoroi_kabuto": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-06-19 01:31:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -1859,6 +2009,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -1871,9 +2033,21 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_bounty_hunter": {
+    "criteria": {
+      "the_bounty_hunter_0": "2025-06-19 01:36:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/umbrella_tree_gate": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
     },
     "done": true
   },
@@ -1892,6 +2066,12 @@
   "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
       "has_torch": "2025-06-19 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-06-19 01:38:50 +0000"
     },
     "done": true
   },
@@ -1979,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-19 01:29:44 +0000"
@@ -2063,6 +2249,12 @@
     },
     "done": true
   },
+  "dungeons_and_combat:origin": {
+    "criteria": {
+      "origin_0": "2025-06-19 01:36:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -2105,9 +2297,21 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/misc/heart_dust": {
+    "criteria": {
+      "cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_sign": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_grape_seeds": "2025-06-19 01:38:00 +0000"
     },
     "done": true
   },
@@ -2159,6 +2363,18 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2025-06-19 01:31:36 +0000"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/rug_shop": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_taburet": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -2189,9 +2405,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "spuds_shops:recipes/building_blocks/shop_oak_black": {
     "criteria": {
       "has_oak_planks": "2025-06-19 01:29:44 +0000"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/misc/power_crystal": {
+    "criteria": {
+      "cobblestone": "2025-06-19 01:39:06 +0000"
     },
     "done": true
   },
@@ -2216,6 +2444,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "kingdomsanddynasties2:recipes/misc/toppainari_kabuto": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
     },
     "done": true
   },
@@ -2267,15 +2501,33 @@
     },
     "done": true
   },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-06-19 01:31:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-19 01:31:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
     },
     "done": true
   },
@@ -2441,6 +2693,12 @@
     },
     "done": true
   },
+  "scalinghealth:recipes/combat/medkit": {
+    "criteria": {
+      "cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "fantasyfurniture:recipes/misc/furniture_station": {
     "criteria": {
       "has_crafting_table": "2025-06-19 01:29:47 +0000"
@@ -2489,6 +2747,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-19 01:31:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -2516,6 +2780,12 @@
   "betternether:recipes/decorations/wart_chair": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "kingdomsanddynasties2:recipes/misc/hara-ate_haidate": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
     },
     "done": true
   },
@@ -2573,6 +2843,12 @@
     },
     "done": true
   },
+  "kingdomsanddynasties2:recipes/misc/do-maru_haidate": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 01:31:30 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/western_fence_whitewash": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
@@ -2597,6 +2873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-19 01:27:39 +0000"
@@ -2612,6 +2894,12 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-06-19 01:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-06-19 01:39:06 +0000"
     },
     "done": true
   },
