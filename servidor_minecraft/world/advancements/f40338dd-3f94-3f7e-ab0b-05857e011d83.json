@@ -2729,6 +2729,7 @@
       "sweet_berries": "2025-06-19 07:08:21 +0000",
       "porkchop": "2025-06-19 08:34:22 +0000",
       "rotten_flesh": "2025-06-19 08:30:21 +0000",
+      "golden_carrot": "2025-06-19 17:33:11 +0000",
       "cooked_chicken": "2025-06-19 07:05:23 +0000"
     },
     "done": false
@@ -3679,7 +3680,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-06-19 08:20:46 +0000"
+      "sweet_berries": "2025-06-19 08:20:46 +0000",
+      "potato": "2025-06-19 17:34:26 +0000",
+      "carrot": "2025-06-19 17:34:20 +0000"
     },
     "done": false
   },
@@ -6248,6 +6251,54 @@
   "realisticforgingores:the_iron_age": {
     "criteria": {
       "the_iron_age_0": "2025-06-19 17:14:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-19 17:36:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-19 17:33:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-19 17:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-19 17:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 17:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-06-19 17:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-19 17:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-19 17:33:00 +0000"
     },
     "done": true
   },
