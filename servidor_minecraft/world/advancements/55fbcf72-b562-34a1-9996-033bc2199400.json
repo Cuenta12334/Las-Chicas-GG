@@ -5099,6 +5099,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-06-19 19:05:31 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_cyan_horse": {
     "criteria": {
       "has_iron_ingot": "2025-06-19 18:39:42 +0000"
