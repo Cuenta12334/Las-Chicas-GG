@@ -4203,3 +4203,85 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [19Jun2025 18:02:22.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [The Gold Rush]
 [19Jun2025 18:05:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Deceived Hopes]
 [19Jun2025 18:15:04.794] [Server thread/INFO] [Scaling Health/]: Blight Decrepit Skeleton has died
+[19Jun2025 18:23:06.485] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 18:23:06.547] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 18:23:06.548] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 18:23:06.619] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 18:23:06.691] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 18:23:06.699] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 18:23:06.763] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 18:23:06.838] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 18:23:06.839] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 18:23:06.919] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 18:23:06.999] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 18:23:07.039] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 18:23:07.668] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 18:23:07.709] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 18:23:07.709] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 18:23:07.710] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 18:23:21.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrinceBrutus08[/127.31.36.41:55359] logged in with entity id 22771 at (-430.25351727079624, 67.0, 129.76694021056824)
+[19Jun2025 18:23:21.159] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 18:23:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 joined the game
+[19Jun2025 18:23:21.272] [Server thread/INFO] [Jade/]: Syncing config to PrinceBrutus08 (55fbcf72-b562-34a1-9996-033bc2199400)
+[19Jun2025 18:23:22.546] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 18:23:22.547] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 18:23:22.547] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 18:23:22.547] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 18:23:22.547] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 18:23:22.548] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 18:23:22.548] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 18:23:22.548] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 18:23:22.548] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 18:23:22.548] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 18:23:22.548] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 18:23:22.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 18:23:22.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 18:23:22.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 18:23:22.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 18:23:22.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 18:23:22.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 18:23:22.549] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 18:23:51.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrinceBrutus08 lost connection: Timed out
+[19Jun2025 18:23:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 left the game
+[19Jun2025 18:24:28.971] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 18:24:29.042] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 18:24:29.110] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 18:24:29.182] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 18:24:29.250] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 18:24:29.251] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 18:24:29.318] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 18:24:29.390] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 18:24:29.390] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 18:24:29.459] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 18:24:29.531] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 18:24:29.531] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 18:24:30.059] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 18:24:30.059] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 18:24:30.059] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 18:24:30.072] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 18:24:42.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrinceBrutus08[/127.31.36.41:59853] logged in with entity id 23201 at (-430.25351727079624, 67.0, 129.76694021056824)
+[19Jun2025 18:24:42.753] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 18:24:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 joined the game
+[19Jun2025 18:24:42.859] [Server thread/INFO] [Jade/]: Syncing config to PrinceBrutus08 (55fbcf72-b562-34a1-9996-033bc2199400)
+[19Jun2025 18:24:43.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 18:24:43.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 18:24:43.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 18:24:43.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 18:24:43.013] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 18:24:43.013] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 18:24:43.013] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 18:24:43.014] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 18:24:43.014] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 18:24:43.014] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 18:24:43.015] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 18:26:04.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [A Seedy Place]
+[19Jun2025 18:28:12.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 was slain by Dellshyva
+[19Jun2025 18:28:14.298] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19Jun2025 18:28:14.299] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty

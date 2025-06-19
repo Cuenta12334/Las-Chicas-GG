@@ -2731,7 +2731,8 @@
       "porkchop": "2025-06-19 08:34:22 +0000",
       "rotten_flesh": "2025-06-19 08:30:21 +0000",
       "golden_carrot": "2025-06-19 17:33:11 +0000",
-      "cooked_chicken": "2025-06-19 07:05:23 +0000"
+      "cooked_chicken": "2025-06-19 07:05:23 +0000",
+      "carrot": "2025-06-19 18:21:54 +0000"
     },
     "done": false
   },
@@ -3684,6 +3685,7 @@
     "criteria": {
       "sweet_berries": "2025-06-19 08:20:46 +0000",
       "potato": "2025-06-19 17:34:26 +0000",
+      "melon": "2025-06-19 18:26:04 +0000",
       "carrot": "2025-06-19 17:34:20 +0000"
     },
     "done": false
@@ -6280,6 +6282,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-06-19 18:25:25 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/web_guard_cyan_rider": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
@@ -6442,6 +6450,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-19 18:25:25 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/halter_yellow": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
@@ -6541,6 +6555,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-06-19 17:49:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-06-19 18:25:56 +0000"
     },
     "done": true
   },
@@ -6682,9 +6702,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-19 18:25:25 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/web_guard_cyan_horse": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-06-19 18:25:25 +0000"
     },
     "done": true
   },
@@ -6784,6 +6816,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-06-19 18:25:25 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/web_guard_green_horse": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
@@ -6823,6 +6861,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-19 17:50:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-06-19 18:25:25 +0000"
     },
     "done": true
   },
@@ -6871,6 +6915,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-19 17:36:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-06-19 18:25:25 +0000"
     },
     "done": true
   },
@@ -7174,6 +7224,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-06-19 18:25:25 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/separator_yellow": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
@@ -7273,6 +7329,12 @@
   "swem:recipes/misc/web_guard_blue_care": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-06-19 18:26:04 +0000"
     },
     "done": true
   },
