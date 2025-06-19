@@ -6604,6 +6604,12 @@
     },
     "done": true
   },
+  "realisticforgingores:first_pick_gold_ore": {
+    "criteria": {
+      "first_pick_gold_ore_0": "2025-06-19 18:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-19 17:39:23 +0000"
@@ -6619,6 +6625,12 @@
   "swem:recipes/misc/separator_pink": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-19 18:02:04 +0000"
     },
     "done": true
   },
@@ -6703,6 +6715,12 @@
   "swem:recipes/misc/web_guard_lime_care": {
     "criteria": {
       "has_iron_nugget": "2025-06-19 17:46:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-19 18:02:04 +0000"
     },
     "done": true
   },
@@ -7066,6 +7084,12 @@
     },
     "done": true
   },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-06-19 18:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-19 17:50:53 +0000"
@@ -7123,6 +7147,18 @@
   "bakery:recipes/tray": {
     "criteria": {
       "has_oak_planks": "2025-06-19 17:39:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-06-19 18:00:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-06-19 18:05:31 +0000"
     },
     "done": true
   },
