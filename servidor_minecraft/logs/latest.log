@@ -4202,3 +4202,4 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [19Jun2025 18:00:38.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Bypassing the Expiration Date]
 [19Jun2025 18:02:22.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [The Gold Rush]
 [19Jun2025 18:05:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dellshyva has made the advancement [Deceived Hopes]
+[19Jun2025 18:15:04.794] [Server thread/INFO] [Scaling Health/]: Blight Decrepit Skeleton has died
