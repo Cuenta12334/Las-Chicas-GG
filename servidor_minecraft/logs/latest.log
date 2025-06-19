@@ -4127,3 +4127,72 @@ ModdedBiomeSource (3b7b013c)
 [19Jun2025 00:28:15.669] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [dungeons_and_combat:dungeons_and_combat,mg_secrets_of_mermaids:mg_secrets_of_mermaids,ribbits:messages,undead_unleashed:undead_unleashed,kingdomsanddynasties2:main_channel,animatedmobsmod:animatedmobsmod,platform:networking,born_in_chaos_v1:born_in_chaos_v1] rejected their client side version number
 [19Jun2025 00:28:15.670] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [19Jun2025 00:28:15.683] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f63a539[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:57709) lost connection: Connection closed - mismatched mod channel list
+[19Jun2025 00:55:22.783] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 00:55:22.893] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 00:55:22.894] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 00:55:22.894] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 00:55:22.994] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 00:55:23.029] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 00:55:23.095] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 00:55:23.099] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 00:55:23.194] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 00:55:23.195] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 00:55:23.292] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 00:55:23.293] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 00:55:24.062] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 00:55:24.063] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 00:55:24.063] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 00:55:24.068] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 00:55:26.629] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@614152e3[id=<null>,name=_Scorpion269_,properties={},legacy=false] (/127.210.34.204:48287) lost connection: Disconnected
+[19Jun2025 01:01:50.373] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:01:50.480] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:01:50.480] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:01:50.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:01:50.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:01:50.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:01:50.688] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:01:50.694] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:01:50.795] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:01:50.795] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:01:50.903] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:01:50.944] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:01:51.634] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:01:51.634] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:01:51.635] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:01:51.646] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:02:03.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Scorpion269_[/127.210.34.204:41109] logged in with entity id 233 at (-9.5, 69.0, -5.5)
+[19Jun2025 01:02:03.267] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 01:02:03.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ joined the game
+[19Jun2025 01:02:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Nether's Exoticism]
+[19Jun2025 01:02:03.728] [Server thread/INFO] [Jade/]: Syncing config to _Scorpion269_ (08586241-0460-31bb-a7d2-80f145463ef9)
+[19Jun2025 01:02:03.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Dungeons And Combat]
+[19Jun2025 01:02:03.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Discover The Mermaids]
+[19Jun2025 01:02:03.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Mobs of Mythology]
+[19Jun2025 01:02:04.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Fruits of the Field]
+[19Jun2025 01:02:04.759] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 01:02:04.763] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 01:02:04.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 01:02:04.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 01:02:04.769] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 01:02:04.770] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 01:02:04.771] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 01:02:04.772] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 01:02:04.775] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 01:02:04.775] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 01:02:04.776] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 01:02:04.776] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 01:02:04.777] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 01:02:04.777] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 01:02:04.778] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 01:02:04.779] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 01:02:04.779] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 01:02:04.780] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 01:02:47.973] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:yeti/from_whence_you_came_speed_increase] from power ResourceKey[apoli:configured_power / medievalorigins:yeti/from_whence_you_came]
+[19Jun2025 01:02:47.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:yeti/from_whence_you_came_better_in_snow] from power ResourceKey[apoli:configured_power / medievalorigins:yeti/from_whence_you_came]
+[19Jun2025 01:02:47.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:yeti/winter_body_winter_body_constant] from power ResourceKey[apoli:configured_power / medievalorigins:yeti/winter_body]
+[19Jun2025 01:02:47.974] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:yeti/winter_body_winter_body_callon] from power ResourceKey[apoli:configured_power / medievalorigins:yeti/winter_body]
+[19Jun2025 01:02:47.975] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:yeti/thick_fur_speed_decrease] from power ResourceKey[apoli:configured_power / medievalorigins:yeti/thick_fur]
+[19Jun2025 01:02:47.975] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:yeti/thick_fur_cold_immunity] from power ResourceKey[apoli:configured_power / medievalorigins:yeti/thick_fur]
+[19Jun2025 01:02:47.975] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:yeti/thick_fur_health_decrease] from power ResourceKey[apoli:configured_power / medievalorigins:yeti/thick_fur]
+[19Jun2025 01:03:02.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Scorpion269_ lost connection: Disconnected
+[19Jun2025 01:03:02.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ left the game
