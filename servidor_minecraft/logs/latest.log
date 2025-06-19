@@ -4258,3 +4258,115 @@ ModdedBiomeSource (3b7b013c)
 [19Jun2025 01:12:03.777] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [dungeons_and_combat:dungeons_and_combat,mg_secrets_of_mermaids:mg_secrets_of_mermaids,ribbits:messages,undead_unleashed:undead_unleashed,kingdomsanddynasties2:main_channel,animatedmobsmod:animatedmobsmod,platform:networking,born_in_chaos_v1:born_in_chaos_v1] rejected their client side version number
 [19Jun2025 01:12:03.778] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [19Jun2025 01:12:03.778] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48e60923[id=<null>,name=PrinceBrutus08,properties={},legacy=false] (/127.31.36.41:44613) lost connection: Connection closed - mismatched mod channel list
+[19Jun2025 01:24:18.184] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:24:18.281] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:24:18.286] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:24:18.382] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:24:18.382] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:24:18.479] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:24:18.485] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:24:18.578] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:24:18.578] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:24:18.679] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:24:18.780] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:24:18.780] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:24:19.356] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:24:19.356] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:24:19.356] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:24:19.397] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:24:31.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _Scorpion269_[/127.210.34.204:36391] logged in with entity id 1383 at (-31.37644312922287, 66.0, -2.6855508921868654)
+[19Jun2025 01:24:31.146] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 01:24:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ joined the game
+[19Jun2025 01:24:31.233] [Server thread/INFO] [Jade/]: Syncing config to _Scorpion269_ (08586241-0460-31bb-a7d2-80f145463ef9)
+[19Jun2025 01:24:31.397] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 01:24:31.397] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 01:24:31.397] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 01:24:31.398] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 01:24:31.398] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 01:24:31.398] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 01:24:31.398] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 01:24:31.398] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 01:24:31.398] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 01:24:31.399] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 01:25:52.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Crops of the Wild]
+[19Jun2025 01:31:10.757] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19Jun2025 01:31:10.828] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19Jun2025 01:31:10.828] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19Jun2025 01:31:10.899] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19Jun2025 01:31:10.967] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19Jun2025 01:31:10.967] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19Jun2025 01:31:11.039] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19Jun2025 01:31:11.111] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19Jun2025 01:31:11.183] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19Jun2025 01:31:11.183] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19Jun2025 01:31:11.255] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19Jun2025 01:31:11.309] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19Jun2025 01:31:12.006] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19Jun2025 01:31:12.014] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19Jun2025 01:31:12.023] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19Jun2025 01:31:12.032] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19Jun2025 01:31:25.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PrinceBrutus08[/127.31.36.41:58243] logged in with entity id 3098 at (-4.5, 73.0, 10.5)
+[19Jun2025 01:31:25.051] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Jun2025 01:31:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 joined the game
+[19Jun2025 01:31:25.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Nether's Exoticism]
+[19Jun2025 01:31:25.126] [Server thread/INFO] [Jade/]: Syncing config to PrinceBrutus08 (55fbcf72-b562-34a1-9996-033bc2199400)
+[19Jun2025 01:31:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Dungeons And Combat]
+[19Jun2025 01:31:25.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Discover The Mermaids]
+[19Jun2025 01:31:25.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Mobs of Mythology]
+[19Jun2025 01:31:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 has made the advancement [Fruits of the Field]
+[19Jun2025 01:31:26.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Jun2025 01:31:26.554] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Jun2025 01:31:26.555] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Jun2025 01:31:26.555] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Jun2025 01:31:26.555] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Jun2025 01:31:26.555] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Jun2025 01:31:26.555] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Jun2025 01:31:26.555] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Jun2025 01:31:26.556] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Las-Chicas-GG/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Jun2025 01:31:27.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Forbidden Fruit]
+[19Jun2025 01:31:36.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [A Moment in Time]
+[19Jun2025 01:31:39.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _Scorpion269_ has made the advancement [Sweet Dreams]
+[19Jun2025 01:32:10.819] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/moonlight_rogue_dagger_bonus] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/moonlight_rogue]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/moonlight_rogue_tooltip] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/moonlight_rogue]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_drain_meter] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_refill_meter] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_stealth_stab_bonus_no_dagger] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_stealth_stab_bonus_with_dagger] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_invisiblity] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_tick_cooldown] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.820] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_meter] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_heartbeat] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth_cooldown] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/stealth]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/crazed_no_sleep] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/crazed]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/crazed_no_phantoms] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/crazed]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/crazed_speed] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/crazed]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant_feet_check] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant_legs_check] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant_head_check] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant_chest_check] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant_tooltip] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/elegant]
+[19Jun2025 01:32:10.821] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/nimble_dodge] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/nimble]
+[19Jun2025 01:32:10.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/nimble_extra_roll] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/nimble]
+[19Jun2025 01:32:10.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/fragile_damage_inrease] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/fragile]
+[19Jun2025 01:32:10.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/fragile_health_lower] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/fragile]
+[19Jun2025 01:32:10.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/towering_towering_constant] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/towering]
+[19Jun2025 01:32:10.822] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / medievalorigins:moon_elf/towering_towering_callon] from power ResourceKey[apoli:configured_power / medievalorigins:moon_elf/towering]
+[19Jun2025 01:32:40.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PrinceBrutus08 lost connection: Disconnected
+[19Jun2025 01:32:40.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PrinceBrutus08 left the game
