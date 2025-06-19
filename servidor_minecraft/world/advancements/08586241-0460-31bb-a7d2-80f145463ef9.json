@@ -2407,6 +2407,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-19 07:37:01 +0000",
       "minecraft:spider": "2025-06-19 09:20:27 +0000",
+      "minecraft:creeper": "2025-06-19 18:42:44 +0000",
       "minecraft:zombie": "2025-06-19 07:06:34 +0000"
     },
     "done": false
@@ -7574,6 +7575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-19 18:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-19 18:27:32 +0000"
@@ -7589,6 +7596,18 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-19 18:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-19 18:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-19 18:36:25 +0000"
     },
     "done": true
   },
@@ -7625,6 +7644,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-19 18:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-19 18:36:25 +0000"
     },
     "done": true
   },
@@ -7679,6 +7704,19 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-19 18:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-06-19 18:32:32 +0000",
+      "has_block": "2025-06-19 18:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-19 18:36:25 +0000"
     },
     "done": true
   },
